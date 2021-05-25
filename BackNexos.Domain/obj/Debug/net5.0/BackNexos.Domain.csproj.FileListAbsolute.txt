@@ -1,0 +1,12 @@
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\bin\Debug\net5.0\BackNexos.Domain.deps.json
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\bin\Debug\net5.0\BackNexos.Domain.dll
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\bin\Debug\net5.0\ref\BackNexos.Domain.dll
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\bin\Debug\net5.0\BackNexos.Domain.pdb
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.csprojAssemblyReference.cache
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.AssemblyInfoInputs.cache
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.AssemblyInfo.cs
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.csproj.CoreCompileInputs.cache
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.dll
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\ref\BackNexos.Domain.dll
+D:\Programas\Nexos\BackNexos\BackNexos.Domain\obj\Debug\net5.0\BackNexos.Domain.pdb
